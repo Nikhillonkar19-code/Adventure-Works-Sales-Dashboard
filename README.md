@@ -77,3 +77,9 @@ This project helped enhance my skills in:
 ---
 
 > ✅ *“Delivering insights that drive action — one dashboard at a time.”*
+
+## 🖼️ Dashboard Preview
+
+### 📌 Executive Summary
+![Executive Summary](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Exec%20Summery.jpeg)
+
