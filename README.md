@@ -80,6 +80,16 @@ This project helped enhance my skills in:
 
 ## 🖼️ Dashboard Preview
 
+## 🖼️ Dashboard Previews
+
 ### 📌 Executive Summary
 ![Executive Summary](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Exec%20Summery.jpeg)
+
+### 📦 Product Analysis
+![Product Analysis](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Product%20Analysis.jpeg)
+
+### 👥 Customer Analysis
+![Customer Analysis](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Customer%20Analysis.jpeg)
+
+
 
