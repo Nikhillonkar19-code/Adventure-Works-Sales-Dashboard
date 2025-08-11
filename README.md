@@ -78,7 +78,7 @@ This project helped enhance my skills in:
 
 > ✅ *“Delivering insights that drive action — one dashboard at a time.”*
 
-## 🖼️ Dashboard Preview
+---
 
 ## 🖼️ Dashboard Previews
 
@@ -91,5 +91,9 @@ This project helped enhance my skills in:
 ### 👥 Customer Analysis
 ![Customer Analysis](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Customer%20Analysis.jpeg)
 
+---
 
+## 🔗 Live Dashboard Link  
+[**View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiM2VlNWU1NTUtMWI2Yy00M2EyLWI3N2EtMDhlNjZiOGJlMGE0IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
 
+---
