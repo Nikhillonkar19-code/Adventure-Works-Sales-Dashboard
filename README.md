@@ -1,14 +1,16 @@
-# 📊 Adventure Works Sales Dashboard  
+# ​ Adventure Works Sales Dashboard  
+[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiM2VlNWU1NTUtMWI2Yy00M2EyLWI3N2EtMDhlNjZiOGJlMGE0IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)  
+
 **Data Analysis Project | Power BI Dashboard | Business Insights**
 
 ---
 
-## 🧾 Project Overview  
+## ​ Project Overview  
 This project is a Power BI dashboard and sales performance analysis for **Adventure Works**, a fictional global bicycle company. The analysis spans **18 months** of sales data and provides key insights into **customer behavior**, **product performance**, and **revenue trends**.
 
 ---
 
-## 🎯 Objectives  
+## ​ Objectives  
 - Analyze total orders, revenue, and returns over time  
 - Track performance by product category, subcategory, and individual items  
 - Identify top-selling products and high-return-rate items  
@@ -18,9 +20,9 @@ This project is a Power BI dashboard and sales performance analysis for **Advent
 
 ---
 
-## 📈 Key Insights  
+## ​ Key Insights  
 - 💰 **Total Revenue**: $751K+ across 353 orders  
-- 🥇 **Top Product (Orders)**: *Water Bottle - 30 oz.*  
+- 🥇 **Top Product (Orders)**: *Water Bottle – 30 oz.*  
 - 💹 **Top Product (Profit)**: *Mountain-200 Black, 46*  
 - 🧑‍💼 **Top Customer**: *Mr. Maurice Shan* with over $12K in purchases  
 - ⚠️ **Average Return Rate**: ~2.14%, highest for helmets  
@@ -29,7 +31,7 @@ This project is a Power BI dashboard and sales performance analysis for **Advent
 
 ---
 
-## 🛠️ Tools & Techniques  
+## ​ Tools & Techniques  
 - **Power BI**: Data modeling, visualizations, DAX measures  
 - **ETL**: Cleaning and transforming data using Power Query  
 - **KPI Metrics**: Revenue, Orders, Returns, and Goal tracking  
@@ -38,62 +40,64 @@ This project is a Power BI dashboard and sales performance analysis for **Advent
 
 ---
 
-## 📂 Dashboard Pages – Detailed Breakdown  
+## ​ Dashboard Pages – Detailed Breakdown  
 
 ### 1. 📌 Monthly KPIs  
-Snapshot of current month's performance with **Revenue**, **Orders**, and **Returns** compared against goals. Helps quickly assess business health and target gaps.
+Snapshot of current month's performance with **Revenue**, **Orders**, and **Returns** compared against goals.
 
 ### 2. 📦 Orders by Subcategory  
-Bar chart showing order volume by subcategory. Focuses on **top 10 products**, highlighting demand hotspots.
+Bar chart showing order volume by subcategory—top 10 products highlighted.
 
 ### 3. 📊 Return Rates by Product  
-Table with **return percentage per product** using a heatmap visual to easily identify items with quality or satisfaction issues.
+Table with return percentages, visualized via a heatmap to highlight products with high returns.
 
 ### 4. 📈 Sales Trends Over Time  
-Line chart comparing **Revenue, Orders, and Returns** over time, highlighting trends, growth, and seasonality.
+Line chart comparing **Revenue**, **Orders**, and **Returns**, illustrating trends and seasonality.
 
 ### 5. 👤 Customer Profiles  
-Demographic analysis by **gender**, **age**, **income**, and **occupation**. Useful for segment targeting and strategy development.
+Demographics visualized by gender, age, income, and occupation.
 
 ### 6. 🌍 Country-Level Orders  
-Interactive map displaying **total order volume by country or region**, providing geographic insights for potential expansion.
+Interactive map showing order volume by country, offering geographical insights.
 
 ### 7. 📉 Weekly Profit & Return Volume  
-Time-series chart tracking **weekly profits and returns**, useful for short-term performance and operational review.
+Time-series chart tracking weekly profits and returns.
 
 ### 8. 🏆 Top Customers  
-Table highlighting **most valuable customers** based on revenue and number of orders, useful for loyalty and retention strategies.
+Table showcasing the highest-value customers by revenue and orders.
 
 ---
 
-## 📘 Learning Outcomes  
+## ​ Data Model  
+The dashboard is built upon a well-structured star schema. Here's the schema for clarity and future extension:
+
+[![Data Model Schema](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/AW%20Work%20Datamodel.png)](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/AW%20Work%20Datamodel.png)
+
+---
+
+## ​ Learning Outcomes  
 This project helped enhance my skills in:
 
 - 🎨 Dashboard storytelling and user-centric design  
-- 🧮 DAX for calculated columns and custom KPIs  
-- 📊 Analyzing trends and comparing against targets  
-- 🧩 Creating interactive visuals with filters, slicers, and tooltips  
+- 🧮 DAX for custom KPIs and dynamic calculations  
+- 📊 Trend analysis and visual goal tracking  
+-  <ins>Power Query</ins> for clean and efficient ETL processes  
+
+
 
 ---
 
-> ✅ *“Delivering insights that drive action — one dashboard at a time.”*
-
----
-
-## 🖼️ Dashboard Previews
-
-### 📌 Executive Summary
+## ​ Dashboard Previews  
+###  Executive Summary  
 ![Executive Summary](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Exec%20Summery.jpeg)
 
-### 📦 Product Analysis
+###  Product Analysis  
 ![Product Analysis](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Product%20Analysis.jpeg)
 
-### 👥 Customer Analysis
+###  Customer Analysis  
 ![Customer Analysis](https://github.com/Nikhillonkar19-code/Adventure-Works-Sales-Dashboard/blob/main/Customer%20Analysis.jpeg)
 
 ---
 
-## 🔗 Live Dashboard Link  
-[**View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiM2VlNWU1NTUtMWI2Yy00M2EyLWI3N2EtMDhlNjZiOGJlMGE0IiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9)
-
----
+##  Connect With Me  
+**LinkedIn:** [Nikhil Lonkar](https://linkedin.com/in/nikhil-lonkar-0436a1338)  
